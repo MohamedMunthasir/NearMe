@@ -44,7 +44,8 @@ Include pictures and contents for your subpages and map them using urls and view
 ```
 
 ## Output:
-![imagemap](imagemap.png)
+
+![imagemap](https://github.com/MohamedMunthasir/NearMe/assets/121957086/61e6ccf2-276b-4bc8-82ee-9031b1eb8033)
 
 ## Result:
 Thus a website is developed to display details about my school near my house.
